@@ -77,6 +77,4 @@ Thank you! Goodbye!
 
 Add your project screenshot below. Save the screenshot in the same folder as this README file and name it `output.png`.
 
-```markdown
 ![Project Output](output.png)
-```
